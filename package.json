@@ -1,0 +1,34 @@
+{
+  "name": "promise-to",
+  "description": "Converts promise exceptions to simple return values",
+  "version": "1.0.0",
+  "keywords": [
+    "promise",
+    "to"
+  ],
+  "homepage": "https://github.com/sasadjolic/promise-to",
+  "author": "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)",
+  "maintainers": [
+    "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)"
+  ],
+  "contributors": [
+    "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)"
+  ],
+  "bugs": {
+    "url": "https://github.com/sasadjolic/promise-to/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasadjolic/promise-to.git"
+  },
+  "scripts": {
+  },
+  "main": "./index",
+  "dependencies": {
+  },
+  "engines": {
+    "node": "^10.7.0",
+    "npm": "^6.4.1"
+  }
+}
