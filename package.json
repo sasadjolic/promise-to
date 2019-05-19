@@ -1,12 +1,12 @@
 {
-  "name": "promise-to",
+  "name": "simple-promise-to-async",
   "description": "Converts promise exceptions to simple return values",
   "version": "1.0.0",
   "keywords": [
     "promise",
     "to"
   ],
-  "homepage": "https://github.com/sasadjolic/promise-to",
+  "homepage": "https://github.com/sasadjolic/promise-to-async",
   "author": "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)",
   "maintainers": [
     "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)"
@@ -15,12 +15,12 @@
     "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)"
   ],
   "bugs": {
-    "url": "https://github.com/sasadjolic/promise-to/issues"
+    "url": "https://github.com/sasadjolic/promise-to-async/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sasadjolic/promise-to.git"
+    "url": "https://github.com/sasadjolic/promise-to-async.git"
   },
   "scripts": {
   },
